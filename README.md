@@ -18,29 +18,29 @@ This project focuses on **data cleaning and exploratory data analysis (EDA)** fo
 
 ## 🛠 Tasks & Methodologies
 ### 1️⃣ Data Cleaning: Preprocessing for Reliable Analysis
-- ✅ **Loading & Inspecting**: Checking data structure and attributes.
-- ✅ **Handling Missing Values**: Using imputation/removal techniques.
-- ✅ **Removing Duplicates**: Ensuring unique and accurate records.
-- ✅ **Outlier Detection & Treatment**:
-  - **Mild Outliers** (age, height, games played): Median imputation.
-  - **Severe Outliers** (weight, points, assists, rebounds, etc.): Winsorization & log transformation.
-- ✅ **Standardizing Categorical Values**: Fixing typos and inconsistencies.
+ ✅ **Loading & Inspecting**: Checking data structure and attributes. <br>
+ ✅ **Handling Missing Values**: Using imputation/removal techniques. <br>
+ ✅ **Removing Duplicates**: Ensuring unique and accurate records. <br>
+ ✅ **Outlier Detection & Treatment**: <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&bull; *Mild Outliers* (age, height, games played): Median imputation. <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&bull; *Severe Outliers* (weight, points, assists, rebounds, etc.): Winsorization & log transformation. <br>
+ ✅ **Standardizing Categorical Values**: Fixing typos and inconsistencies.<br>
 
 ### 2️⃣ Exploratory Data Analysis (EDA): Unveiling Insights
 #### 🔍 *Univariate Analysis (Single-Variable Exploration)*
-- 🔹 Summary Statistics: Mean, median, variance, skewness, etc.
-- 🔹 Frequency Distributions for categorical attributes.
-- 🔹 Visualizations: Histograms, box plots for distribution analysis.
+ 🔹 Summary Statistics: Mean, median, variance, skewness, etc.<br>
+ 🔹 Frequency Distributions for categorical attributes.<br>
+ 🔹 Visualizations: Histograms, box plots for distribution analysis.<br>
 
 #### 🔍 *Bivariate Analysis (Two-Variable Relationships)*
-- 🔹 Correlation Matrix: Identifying relationships between numerical variables.
-- 🔹 Scatter Plots: Exploring continuous variable dependencies.
-- 🔹 Bar, Violin, and Box Plots: Comparing categorical & numerical attributes.
+ 🔹 Correlation Matrix: Identifying relationships between numerical variables.<br>
+ 🔹 Scatter Plots: Exploring continuous variable dependencies.<br>
+ 🔹 Bar, Violin, and Box Plots: Comparing categorical & numerical attributes.<br>
 
 #### 🔍 *Multivariate Analysis (Multi-Feature Relationships)*
-- 🔹 Pair Plots: Observing multiple variable interactions simultaneously.
-- 🔹 Heatmaps: Visualizing correlations between different features.
-- 🔹 Grouped Comparisons: Identifying combined effects of multiple factors.
+ 🔹 Pair Plots: Observing multiple variable interactions simultaneously.<br>
+ 🔹 Heatmaps: Visualizing correlations between different features.<br>
+ 🔹 Grouped Comparisons: Identifying combined effects of multiple factors.<br>
 
 ---
 
@@ -57,10 +57,10 @@ This project focuses on **data cleaning and exploratory data analysis (EDA)** fo
 ---
 
 ## 📌 Expected Outcomes
-- ✔ Well-cleaned dataset ready for analysis.
-- ✔ Statistical insights on player attributes.
-- ✔ Clear visual representations of trends and relationships.
-- ✔ Continuous comments on findings, aiding future predictive modeling.
+ ✔ Well-cleaned dataset ready for analysis.<br>
+ ✔ Statistical insights on player attributes.<br>
+ ✔ Clear visual representations of trends and relationships.<br>
+ ✔ Continuous comments on findings, aiding future predictive modeling.<br>
 
 🎯 *"Turning raw data into game-changing insights!"* 🏀📊
 
