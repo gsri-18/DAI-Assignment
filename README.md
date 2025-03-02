@@ -9,7 +9,8 @@
 This project focuses on **data cleaning and exploratory data analysis (EDA)** for the NBA Players dataset. The dataset contains numerical and categorical attributes, requiring careful preprocessing before meaningful insights can be extracted.
 
 ## 📂 Dataset Chosen: **NBA Players Dataset**
-![NBA Players](readme.jpeg)
+<img src="readme.jpeg" width="500">
+
 
 🔗 **Source:** [Kaggle - NBA Players Data](https://www.kaggle.com/datasets/justinas/nba-players-data)
 
