@@ -57,10 +57,10 @@ This project focuses on **data cleaning and exploratory data analysis (EDA)** fo
 ---
 
 ## 📌 Expected Outcomes
-✔ Well-cleaned dataset ready for analysis.
-✔ Statistical insights on player attributes.
-✔ Clear visual representations of trends and relationships.
-✔ Continuous comments on findings, aiding future predictive modeling.
+- ✔ Well-cleaned dataset ready for analysis.
+- ✔ Statistical insights on player attributes.
+- ✔ Clear visual representations of trends and relationships.
+- ✔ Continuous comments on findings, aiding future predictive modeling.
 
 🎯 *"Turning raw data into game-changing insights!"* 🏀📊
 
